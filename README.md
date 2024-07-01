@@ -1,1 +1,1 @@
-# web-test
+# This project was a test question I encountered in a recent interview. I spent 30 minutes understanding the project:sweat_smile:, then 1 minute telling gpt what it should do, and 5 seconds later I had code that worked:laughing:.what a crazy gpt:laughing:.
